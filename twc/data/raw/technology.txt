@@ -1,0 +1,503 @@
+Got a tech question or want to discuss tech? Weekly /r/Technology Tech Support / General Discussion Thread
+NYPD Refuses to Disclose Information About Its Face Recognition Program, So Privacy Researchers Are Suing
+Uber is under criminal investigation for building software to avoid regulators
+Leaked: The UK's secret blueprint with telcos for mass spying on internet, phones – and backdoors
+Billboards target lawmakers who voted to let ISPs sell user information
+DoJ begins criminal probe into Uber's use of software to help drivers evade local regulators
+The Cord-Cutting Future Has Arrived - U.S. pay-TV industry lost about 762,000 video subs in the first quarter of 2017, a worst-ever result for the period
+Seattle issues Broadband Privacy rule requiring cable ISPs to obtain customers' permission before selling their data
+Ted Cruz Doubles Down On Being Wrong: Pushes Yet Another Net Neutrality Killing Bill
+NASA is offering a $15,000 prize if you can speed up its simulation code
+Facebook, Google, Twitter sued by families of San Bernardino shooting - claiming that the companies permitted Islamic State to flourish on social media
+An AI just defeated human fighter pilots in an air combat simulator
+AMD and Nvidia silicon manufacturing secrets allegedly stolen and sold to China
+Justice Department opens criminal probe into Uber
+Report: Uber faces federal criminal probe over regulator-evading software
+Self-Driving Electric Cars Will Mean 200 Million Fewer Vehicles on U.S. Roads by 2030, Study Claims
+Qualcomm could be looking at banning iPhone imports into the U.S.
+FCC Chief: Net Neutrality Rules Treating Internet As Utility Stifle Growth
+Leaked: The UK's secret blueprint with telcos for mass spying on internet, phones – and backdoors
+Facebook Is Shutting Down VR Content Division Oculus Story Studio
+How One Major Internet Company Helps Serve Up Hate on the Web. Cloudflare, a prominent San Francisco outfit, provides services to neo-Nazi sites like The Daily Stormer, including giving them personal information on people who complain about their content.
+Dem: GOP's net neutrality rollback aims to 'choke off' free speech
+Apple-Picking Robot Prepares to Compete for Farm Jobs - Orchard owners say they need automation because seasonal farm labor is getting harder to come by.
+There’s a federal law to lower drug prices—and Louisiana may just use it. The federal patent law could help the state save tens of millions on a single drug.
+Mexican high school student invents cancer-detecting bra
+Maine legislature rejects proposal that would cripple municipal broadband
+Hundreds of privacy-invading apps are using ultrasonic sounds to track you
+Op-Ed: Giving the Behemoth Telecoms a Leg Up on the Little Guy
+The data economy demands a new approach to antitrust rules
+Netflix Has Almost 4x as Many Streaming Subscribers as Comcast has Cable Subscribers
+Billboard calls out legislators who voted to allow ISPs to sell user data
+Most US homes have mobiles but no landline
+Google turns Raspberry Pi into a dirt cheap Home competitor
+Google just accused Uber of creating a fake, shell company with its former engineer to steal its tech
+Google Docs users hit with sophisticated phishing attack
+Tesla battery researcher unveils new chemistry to increase lifecycle
+New zinc battery competes with lithium-ion - A new way to put the zinc together makes this safer chemistry an option.
+NPR interview with FCC Chief, where he tries to defend his stance on net neutrality
+U.S. Wind Energy Installations Surge: A New Turbine Rises Every 2.4 Hours | Over 99 percent of wind farms are built in rural communities; together, the installations pay over $245 million per year in lease agreements with local landowners
+The Coming Technology Policy Debate
+Senator James Inhofe (R-OK) explains why he recently supported legislation allowing ISPs to sell your private browsing history: "... because Obama..."
+Buffett Discloses Reduced IBM Stake Ahead of Berkshire Meeting
+Uber Update Lets Riders Change Pick-up Location After Booking Ride
+The Robot Revolution Will Take Your Car, Your Mom's Car, and All the Oil in 13 Years
+'New face of piracy': Android boxes promising 'free TV' popular with Canadians, study says
+Maine The Latest State To Try And Let Giant Broadband Providers Write Shitty, Protectionist State Law
+An AI can recognize musical genres better than humans
+'Unlock iPhone', says judge in US sextortion case
+Is there any post in this sub that isn't politics related?
+Google's Eric Schmidt: I'm a 'job elimination denier' on the risk of robots stealing jobs
+Microsoft tests a secured Edge browser for business - 'Application Guard' locks it in a virtual machine to protect your PC from malware
+China Compiles Its Own 'Wikipedia,' But Public Can't Edit It
+Government officials conducted 30,000 searches of NSA intercepts to gather data on Americans in 2016, according to newly released documents
+Google wants to build a city
+Google beefs up security in Android Gmail app following Docs phishing scam
+Apple is now the world's number one wearables seller
+Arris: DOCSIS 3.1 Wave Rising. Vendor expects to ship 2 million-plus DOCSIS 3.1-capable devices this year
+Intel tells Core i7-7700K owners to stop overclocking to avoid high temps
+NASA wants YOU (to make its Fortran code run faster)
+An AI-Driven Genomics Company Is Turning to Drugs - Deep Genomics aims to develop drugs by using deep learning to find patterns in genomic and medical data.
+NYTimes: Companies Compete but Won’t Let Their Workers Do the Same
+Don't Get Fooled: The Plan Is To Kill Net Neutrality While Pretending It's Being Protected
+Windows 10 S, Microsoft's newest upgrade to the operating system designed for students, locks user into using Microsoft Edge
+Computers learn to understand humans better by modelling them - "Researchers from Aalto University, University of Birmingham and University of Oslo present results paving the way for computers to learn psychologically plausible models of individuals simply by observing them."
+The Google Docs spam attacks played off Google’s most fundamental weakness
+Broadband privacy protections go local: Tacoma and Seattle restrict cable companies from selling personal information without permission
+FCC chair: Net neutrality advocates misrepresenting the truth
+Qualcomm study says sure, you can control a drone over LTE
+Kodi: Open source TV app inspires full-blown copyright panic in the UK
+Apple Leak Reveals iPhone 7S Bad News
+Radio New Zealand - Gender bias and Facebook comments: Is there a male equivalent of a vile hag?
+Why isn't Net Neutrality a bigger deal right now?
+Uber faces criminal probe over software used to evade authorities
+Musk talks Model 3 preparation and gives Model Y hints in financial call
+Global WhatsApp Outage
+Majority of U.S. households now cellphone-only, government says
+SpaceX to launch broadband satellites in 2019 - Satellites will function like a mesh network and deliver gigabit speeds
+Why Netflix Is Winning the Online Piracy Wars
+Apple Inc Chief Executive Officer Tim Cook said the iPhone maker plans to create a $1 billion fund to invest in advanced manufacturing companies in the United States.
+Food Technology Brings New Traditions, Including Meatless Ones
+We're Going To Need to Share Autonomous Vehicles
+Americans' Access to Strong Encryption Is at Risk, an Open Letter to Congress
+bitwarden, Free and Open Source Password Manager, Adds Password Sharing Features
+The man who invented the cash machine
+This man lost 50 lbs by riding a bike in virtual reality
+SolarCity performance points to rockier outlook for rooftop solar
+Windows 10 S won't let you change the default browser or switch to Google search
+The majority of US homes now use wireless phones instead of landlines
+Appeals court declines to reconsider net neutrality decision
+Digital Economy Act: UK Police can now disable phones, even if users don't commit a crime
+Designing Voice Experiences
+The Parts of America Most Susceptible to Automation - "65 percent of jobs in Las Vegas and 63 percent of jobs in Riverside predicted to be automatable by 2025."
+Facebook shares dip from high as investors fret over costs, future profit
+Google Knew Hackers Could Launch a Gmail Viral Phishing Campaign Since 2011
+SpaceX plans to launch satellites that deliver internet
+A Dangerously Convincing Google Docs Phishing Scam Is Spreading Like Crazy
+With autonomous cars all but guaranteed in the near future, no one really mentions that many people love driving.
+NSA still collecting Americans’ phone call data
+The FBI Director Thinks a Law Against Encryption Is Possible Under Trump
+SpaceX plans to launch first internet-providing satellites in 2019
+Indonesia’s Uber rival Go-Jek raises $1.2 billion led by Tencent at a $3 billion valuation
+Weekly /r/Gadgets Advice Superthread!
+Ostrich-inspired running robot doesn't need smart sensors to balance
+Hands-on with the Surface Laptop: Well, it's a laptop
+DIY Exo Arm Shows Us a Glimpse of the Bionic Future
+A Nutribullet has reportedly exploded, leaving its user with burns
+Apparently slingshots are really cool now and nobody told me
+Microsoft's prototype Surface Laptop included two USB-C ports
+BlackBerry KeyOne review: part productivity, part nostalgia
+An AI-powered bionic hand will know what it's grabbing
+These modular headphones let you change all the parts - even the speakers
+New zinc battery competes with lithium-ion - A new way to put the zinc together makes this safer chemistry an option because it could theoretically make a safer and cheaper rechargeable one
+Microsoft unveils Surface Laptop running Windows 10 S
+Ecobee4 Review: Now with Alexa built in
+A Toaster Just for Bacon
+Surface Laptop images leak ahead of Microsoft's event
+Microsoft Surface Laptop With Windows 10 S: Our first take
+The OverLord ProPlus is a 3D printer for making really tall objects
+These fancy earbuds have a built-in slider to adjust the volume of your surroundings
+Nanospark fits everything you need to start a fire in one hand
+2.3 million people got an NES Classic, though many more wanted one
+Acer's $9,000 Predator 21 X is possibly the most powerful gaming laptop ever
+Fitbit SmartWatch leaked
+The Marine Corps is testing a machine gun-wielding robot controlled with just a tablet and a joystick
+Onkyo adds Chromecast support to tons of its AV gear with a firmware update
+Apple patent hints at one day charging your phone over Wi-Fi
+UK 'Iron Man' demonstrates flying suit.
+3D printed from titanium, Stealth Keys are nearly impossible to duplicate
+Google teams up with Huawei for high-end Raspberry Pi rival that runs Android
+Hands-on with Meta 2 Augmented Reality Glasses
+Meet the 400-pound robot that will soon patrol parking lots, offices, and malls
+Amazon's new Echo Look has a built-in camera for selfies
+Why the world needs the John McAfee Privacy Phone
+Nintendo announces New 2DS XL for $149.99
+Smartphone camera shootout: Galaxy S8 vs. iPhone 7, Google Pixel, and LG G6
+Huawei and Google supercharge Android with a new Raspberry Pi-like board
+Another iPhone 8 leak hints at wireless charging
+This Wearable Subwoofer Takes Thumping Bass on the Go
+Weekend Reader: Fifth Week of April
+The Beoplay P2 is a Bluetooth speaker that replaces buttons with tap and gesture controls
+Amazon Echo with a built-in screen may be on deck next month
+This Superthin Webcam Cover Helps Protect Your Privacy In Style
+Western Digital crammed 12TB of storage into a helium-filled hard drive
+Man takes drone out for a sunset flight, drone gets shot down
+Amazon's newest Echo device is a hands-free camera that will analyze your outfit
+Fitbit investigates report of 'exploding' tracker
+Huawei brings features that have been historically reserved for top tier phones into the mid-range
+Aerix Black Talon 2.0 is drone racing's gateway drug
+Ultra-cheap 'origami' microscope developed
+WeatherAtPoint Is a Personal Weather Station You Can Fit on Your Keychain
+Lenovo Launches 2-in-1 Flex 11 Chromebook: Quad-Core SoC, 4 GB RAM, from $279
+Weekly /r/Gadgets Advice Superthread!
+The first photos of the new iPhone might just have leaked
+Missed out on the NES Classic? Here's how to build one on your own
+Shuttle's new XPC nano PCs run on ARM
+Samsung Galaxy S8+ Teardown
+Fingerprint, face scan, or password: what's the best way to unlock your Galaxy S8?
+The CaptoGlove Turns Your Hand Into a Gaming Controller
+Intel's next-generation SSD technology is finally ready and it's really, really fast
+Mastercard debuts a credit card with a fingerprint sensor to fight fraud
+GoPro to release prosumer spherical camera in fall 2017
+The ZTE Quartz is the cheapest Android watch you'll want to wear [Review]
+Dell announces its first HDR desktop monitor
+Stanley Black &amp; Decker Enters the 3D Printer Market with the "STANLEY Model 1"
+With these glasses, a legally blind teen can see and shoot 3s with the Harlem Globetrotters
+Weekend Reader: Fourth Week of April
+Plastc swiped $9 million from backers and just completely vanished
+Sony's new A9 camera is a full-frame mirrorless with ludicrous speed
+Nike announces the new Apple Watch NikeLab edition, available 4/27
+These air-free bike tires aim to free us from the pain of fixing a flat
+You can squeeze Juicero bags with your bare hands, no $400 machine needed
+The Asus Tinker Board gives North American makers a new computer option
+Travis is a handheld translator that works with over 80 languages
+You'll know Apple blew it when it makes a fingerprint dongle
+Samsung makes radical Galaxy Note 8 design changes. Galaxy Note 8 leak reveals dual camera optical zoom.
+Logitech G launches G413, a Romer-G switch mechanical keyboard in 2 versions - Carbon &amp; Silver for 90$
+Crowdfunded Mirabook is the latest attempt at a laptop dock for smartphones
+Arm-mounted underwater jet drive looks like it came from a James Bond movie
+Nintendo is reportedly planning to launch a miniature SNES before Christmas
+Scientists have invented a dryer that can dry clothes in half the time without heat
+Sony debuts the new Alpha 9 mirrorless camera with 20fps continuous shooting
+Xiaomi Mi 6 announced: Snapdragon 835 and dual cameras for $360
+Galaxy S8 phones ship out with red tinted screens
+An revival of old tech using new drone and smart phone tech.
+Review - MSI GeForce GTX 1080 Ti Armor 11G OC
+TP-Link Deco M5 router review: This mesh network comes with a side of antivirus
+One-upping the NES Classic Edition with the Raspberry Pi 3 and RetroPie
+Penna is a retro style bluetooth keyboard compatible with Windows, iOS, and Android devices. Its available on Kickstarter for $99
+Samsung Galaxy S8 phone: full, in-depth review
+The 10th Anniversary iPhone Sounds Like a Samsung Clone
+Samsung Gear VR and Controller is a virtual reality marriage made in heaven
+Weekly /r/Gadgets Advice Superthread!
+This machine will 3D-print a second skin onto your iPhone
+Samsung testing a dual-screen phone prototype: Report
+Nintendo sold more copies of Zelda for Switch than actual Switch consoles
+HighPoint RocketStor 6618 Thunderbolt 3 DAS: 8-Bays, Up to 96 TB, 2.7 GB/s, $999
+Alphabet's Verily details its research-focused health watch
+This Swiss smartwatch helps you capture and share video, images, notes and more with friends online or in your own private network
+Tiny First-Person-View Drone, Spy Gear for the Masses?
+Nintendo discontinues the NES Classic Edition
+A new fleet of robots is delivering food in San Francisco
+Weekend Reader: Third Week of April
+Microsoft office 365 support phone number +1-888-201-239
+Get Expert Help Through Skilled Dishmail Technical Support Staff..!!!
+Bigpond customer service number +61-180-092-1785
+Install McAfee VirusScan &amp; Scan Your Computer for Viruses
+NEW TECHNOLOGY WHERE CAN I GET ONE OF THESE SYSTEMS
+Tier 5 100 NBN FTTN
+Industrial robots that build cars can be easily hacked
+Chatwing Is The Ultimate Compliment To Websites, Platforms, Blogs, And Mobile Apps Around The World
+Croyanttech|24×7 Advanced Database Monitoring and Alerting
+Oracle Database 12c Enterprise is Providing by|Croyanttech.com
+Get an App for your business
+Jio user set your favorite song as Caller Tune
+Is China Launching a New National Intelligence Law?
+Outsource Live Chat Support for generating better ROI http://livechatcorp.com
+Techchef data Recovery
+Avoid Owing the I.R.S. with the Best Financial Planning Software You Can Find
+Who's Who in Fintech and Art
+Manage Your Organization Using Salesforce Integration Services
+There's a new Open Source browser built in HTML5 that runs an HTTPS redirect, has built-in ad-blocker, and has payment management for donating to your favourite content creators.
+The Developer Show (TL;DR 065)
+Will more technology mean less human intelligence?
+The Best Reverse Phone Look up in America
+VoIP Phone System and Service Provider – DialPort.net
+Buy Top Quality Digital Notice Board in Delhi NCR
+Dial 1800-510-7358 Learn easy steps to Replace Toner Cartridge in a Laser Printer
+Gmail Helpline Number UK 08000903883
+Buy High Quality Digital Notice Boards in Delhi NCR
+Günstige und gute Motorfräse finden
+Just Dial 1800-510-7358 and Get quick technical support for Epson Printer issues
+Mobile Application Development Company | Apptunix
+Google Self Driving Car Technology
+4 Tips To Help You Stay Safe On Social Media
+Columbia Sportswear hacked by former employee
+Move Your Body: Advancements and Mobility in Robotics
+Epson Printer Support Phone Number +448000465291,Repair Service
+Brother Printer Helpline Number UK 0800-090-3264 Brother Printer Phone UK
+INCENTIVES OF OFFICE 365 ONLINE
+Oracle Application Services @ Croynattech.com
+Hp Printer Helpline Number UK 0800-090-3264 Hp Printer Help UK
+Indian Food and Authentic Indian Restaurant Christchurch
+Russian arrested in Spain 'over US election hacking' - BBC News
+Petchatz Review
+Keep track of everyday Technology.
+Best Practices For Using A Home Visualizer
+GST: 5 things that make the tax reform a technological nightmare
+H2Bro's Potable Water Hauling
+Salesforce Integration Services – Cloudgenie Technologies
+Basics-Resistors
+Adobe XD
+Go Processing Complaints
+Go Processing Online Complaints| Go Processing Ltd Complaints Cell
+www.norton.com/setup UK: +44 800-046-5266
+Go Processing Complaints
+Dial 1800-510-7358 And Get Top Quality Services for Printers at Lowest Charges
+Explore the Few Facts About Perfusion Bioreactor
+4 leading AWS cloud monitoring and management tools
+Go Processing Limited Complaints| Go Processing Complaints
+Global Solar Cell Market Outlook, Price Trends, Industry Forecast 2024
+OUToftheCLOUD: The Next Generation in File Sharing Solutions! Pre-register now to reserve your place in line for FREE!
+Improving Quality of Life
+AWESOME TECH
+What Happened When We Took the SCiO Food Analyzer Grocery Shopping
+Don’t Go Another Day Without A Good Data Recovery Software Program
+Mindz Technology
+A wearable device that’s designed to train you to sit properly
+The message actually not erased and still, it is readable in WhatsApp
+Is This an iPhone Charging Cable or a Backscratcher?
+The coolest gadgets from the CES show 2017 featured on digital grog Australia
+3 Digital Resources For Improving Your Overall Security
+DevOps Is Not a Technology; It’s an Evolving IT Culture!
+This USB Fan is Probably The Dumbest Thing I've Ever Unboxed
+How good is this original battery!
+5 Best Innovations from Mobile World Congress 2017
+Graphics Card Murderer Sentenced to Prison - The Know Tech News
+Cool New Army Tire Technology - New Inventions 2017
+Cloud
+VR
+Best Laptop Under $700 (Top Picked)
+Top-9 weather stations: how to pick the best weather station for your needs?
+Transparent Solutions
+[Deal Alert] Choetech USB Type-C cable multi-packs on sale at Amazon for up to 35% off
+washable Digital Led T-shirts, Custom LED Light Up Tshirts, Scrolling LED Programmable Message T Shirt, LED Tshirt
+iPhone X OLED orders, LG G6 battery improvements &amp; more - Pocketnow Daily
+We Are Tubular Heaters
+Chromecast kopen
+Smart Tech Store
+Our expert team is ready for any kind of water damage emergency in Minneapolis.
+Is Ultrasonic Technology capable enough to give accurate results?
+How to download voter list ?
+Touch enabled programmable T Shirt, Custom Light Up T Shirts, washable Digital Led Tshirts, Promotional Logo T-Shirt
+Secure Wireless Chargers
+Le Figaro plans to double its live stream video output in election run-up
+New HP Envy 34 all in one 2017
+KDE Slimbook with KDE Neon Linux
+Huawei Honor 6x Latest Review
+MOTIV | smart ring | short unboxing | review | K-tech360 !! Best smart tech for fitness
+Oppo F1s Selfie Expert Hands On Review Grey | K-tech360 Best smartphone at Rs 16,000
+192.168.o.1.1 IP Address
+The 7 Best VR Headsets of 2017
+How to open Facebook when blocked in office
+Got a tech question or want to discuss tech? Weekly /r/Technology Tech Support / General Discussion Thread
+Uber is under criminal investigation for building software to avoid regulators
+FCC Chief: Net Neutrality Rules Treating Internet As Utility Stifle Growth
+Got a tech question or want to discuss tech? Weekly /r/Technology Tech Support / General Discussion Thread
+Uber is under criminal investigation for building software to avoid regulators
+FCC Chief: Net Neutrality Rules Treating Internet As Utility Stifle Growth
+Germany Breaks Record: 85% of Energy Comes From Renewables Last Weekend - "Conversely, coal use was at an all-time minimum. According to DW, on April 30, coal-fired power stations were only operational between 3 and 4 p.m. and produced less than eight gigawatts of energy"
+Iceland drills 4.7 km down into volcano to tap clean energy
+U.S. will lose jobs if it quits Paris climate deal: U.N. - China, India and Europe will snap up the best power sector jobs in future
+Mario Kart 8 Deluxe Has Connection Issues
+China increases solar power output by 80% in three months
+Here’s What Comes Next in the Fight to Save Net Neutrality
+Scientists are waging a war against human aging. But what happens next?
+Investigatory Powers: 'Real-time surveillance' in draft update - BBC News
+Facebook shuts Oculus VR movie studio
+Investigatory Powers: 'Real-time surveillance' in draft update - BBC News
+Cyberattack hits 26,000 Debenhams Flowers customers
+Facebook to bring millions of Indians online with low-cost Wi-Fi hotspots
+Porsche opens digital center in Silicon Valley
+How close are we to fully/partially automating the role of a commercial pilot?
+Windows 10 S forces you to use Edge and Bing
+SaaScriptions - Subscriptions Management and Reporting made easy
+Knomo’s water-resistant LiveFree bag offers wireless charging on the go
+Top IT Companies
+Intel’s Skylake “Scalable Processor” family is a new approach to Xeon
+The Next Generation of Robots Will Be Remarkably Human-Like
+SpaceX plans to start delivering satellite internet in 2019
+One of Europe’s largest carmakers will test its self-driving cars in Singapore
+Userfeeds aims to stop fake news by linking the blockchain to social content
+Intel unveils DC P4500 and P4600 3D NAND PCIe NVMe data center SSDs with up to 4TB capacity
+Intelligence In-Context: The Rise of Context-Aware Apps
+Chinese Scientists Make Quantum Leap in Computing
+Microsoft unveils $999 Surface in new education pitch
+Elon Musk says we're only 2 years from being able to nap in self-driving cars
+Why This Futuristic Tech Will Be The Future of Computing
+Intel, Nokia, Qualcomm Bet on MulteFire to Blend LTE and Wi-Fi
+Twitter will stream 24-hour news from Bloomberg starting this fall
+Could direct drive actuators push robots into the mainstream?
+Here's why women, blacks and Hispanics are leaving tech
+Wearable smart sensor systems integrated on soft contact lenses for wireless ocular diagnostics
+Elon Musk clarifies Tesla’s plan for level 5 fully autonomous driving: 2 years away from sleeping in the car
+NASA Launches Super Balloon To Detect Cosmic Particles From Near Space
+BMW’s plug-in hybrid 530e iPerformance will get wireless charging
+Ironman IRL
+MIT’s giant mobile 3D printer can build a building in 14 hours, and some day it may be headed to Mars
+China Talking With European Space Agency About Moon Outpost
+Tagged criminals may be tracked by GPS satellite 24 hours a day
+Reddit plans to make big changes to how the site looks
+Self-driving car trial to hit UK roads in 2019
+Spotify acquires Ethereum startup Mediachain
+An artificial womb successfully grew baby sheep — and humans could be next
+Dual-cameras on smartphones are officially a thing. But will phone makers stop at just two? | CNET
+Wired's Next List 2017: 20 People Who Are Creating the Future
+Zennström: Like seeing Skype for the first time – how the Lilium Jet just changed our world
+Google co-founder Sergey Brin is reportedly building his own secret airship
+Uber is making it easier to see your rider rating
+Internet Archive announces broader crawler scope
+OK Computer, tell me about the new U.S. federal government AI Personal Assistant Pilot.
+GoPro Fusion merges VR and action cams into one reality-defying product
+Lyrebird.ai is a new site that will allow anyone to "copy the voice of anyone"
+Google cofounder's 'flying car' makes its debut
+20,000 Pakistani Schools to Go Solar
+Is It Time to Break Up Google?
+More Ways To Use Graphene in Technology
+Watch this all-electric ‘flying car’ take its first test flight in Germany
+When will a reliable lie detector be invented?
+Is the Silicon Valley Dynasty Coming to an End?
+The world's smartest vending machine will be used to sell weed, of course
+Elon Musk on mission to link human brains with computers in four years
+Send Google your floor plan, receive ultimate Wi-Fi mesh networking test
+Facebook Engineer Asserts That Augmented Reality Will Replace Smartphones in 5 Years
+Watch Lilium’s successful test flight of the world’s first electric VTOL jet
+Founder creates ultra-high-tech "Keurig of Juice." Turns out customers can simply squeeze the juice packets themselves. Hilarity ensues.
+Google Home now supports multiple users, but still can’t separate work and personal accounts
+Has the transparent smartphone finally arrived?
+You won't have to fumble for change with these new digital vending machines. A QR code is all you need
+App-controlled smart pet door by SureFlap
+3D vs Flat Design
+Study: Home WiFi Mesh Products Work Better With a Wired Backbone. Finds performance boost when whole-home WiFi systems lean on a MoCA 2.0-based backbone
+New Facebook tool "pops your filter bubble" by matching you with 10 new and different friends
+Facebook is working on a way to let you type with your brain
+Facebook F8, day 1: Facebook goes all in on AR and VR
+Scientists at MIT and UC Berkeley have created a prototype solar-powered device that harvests water from dry air
+Toyota unveils plans to build a fleet of heavy-duty, hydrogen-powered trucks
+Credit card with a fingerprint sensor revealed by Mastercard
+Bitcoin miners have collectively earned more than $2 billion
+A flying wooden box is cutting edge research? Looks like applying some modern tech re-invigorating some old fundamentals.
+AeroMobil is planning on making its flying car available for preorders in 2017
+[DISCUSSION] Do you think this generation of kids could be the first in a while to be less tech competent than their parents?
+Facebook's digitally enhanced future sidesteps ugly reality
+BBC Research and Development Tests FLAC for Streaming
+Here's the final design for Light's 16-lens camera that due out in July 2017 if preordered
+Facebook Spaces: The VR World Is Bizarre, Glorious, and Exactly Why Mark Zuckerberg Bought Oculus | WIRED
+A Chinese warehouse reportedly cut its labor costs in half with a fleet of tiny robots
+The FBI Says It Can Finally Find Hackers Who Don’t Smoke Weed
+Check out Sony's new DURABLE SSDs for 4k video
+Tech Giants Collaborate In Vanguard By Hiring Autistic Employees -- Best Practices Are Mutually Beneficial
+Enel Begins Construction On Largest Solar Project In The Americas
+Google wants to help you find a job with its new service - Android Authority
+Wood-Based Plastic Coffee Cup Is 100 Percent Recyclable
+Breakthrough' LI-RAM Material Can Store Data With Light
+Classic Mac OS and dozens of apps can now be run in a browser window
+Computers create recipe for two new magnetic materials
+This clothes-printing machine is the dream of any designer
+Microchipping Employees for Gaining Access At Work
+Lawyers, malware, and money: The antivirus market's nasty fight over Cylance
+Wozniak's world in 2075: 'bigger' Apple, Google, Facebook
+Oracle buys developer tooling startup Wercker
+Optane is Intel's New Secret To Making Your Computer Super Fast
+How AI is transforming the future of fintech
+Angelica Ross Wants to Use Tech to Help People in Transition
+Free Degree of Computer Science using MIT OpenCourseware
+Elon Musk says Tesla will unveil its electric semi truck in September
+New York City's free WiFi kiosks speed up access to social services
+This Incredible Hospital Robot Is Saving Lives. Also, I Hate It | WIRED
+Where No Broadcaster Has Gone Before. One woman’s plans to livestream a total solar eclipse from the edge of space
+This gadget can turn an ordinary surface into a smart controller
+This new solar-powered device can pull water straight from the desert air
+Mat Collishaw restages 1839 photography show in virtual reality
+Apple has an official permit to test self-driving cars in California - Business Insider
+Solar employs more U.S. workers than Apple, Google, and Facebook combined
+It’s Not Too Late To Save Net Neutrality From a Captured FCC
+China's Solar Output Increased 80% in First Quarter - China added 7.21 gigawatts of solar power during the period, boosting its total installed capacity to almost 85 gigawatts, the NEA said.
+Leaked document reveals UK plans for wider internet surveillance
+Scientists Complete First EPA-Approved Outdoor Field Trial for Genetically Engineered Algae. Experiment pushes toward the promise of algae as a clean, renewable food and fuel source. Genetically engineered algae can be successfully cultivated without adversely impacting native algae populations.
+This Week's Episode Of Silicon Valley Finally Addresses Virtual Reality
+What is this bullsh*t, Google? Nexus phones starved of security fixes after just three years
+Chinese scientists make quantum leap in computing
+Wikileaks Publishes Secret CIA Tools That Attacked Computers Inside Offices
+As Uber Probes Sexual Harassment at Its Offices, It Overlooks Hundreds of Thousands of Female Drivers
+Lawmakers that killed privacy rules get shamed via billboards
+The EPA climate website taken down for review was accurate, scientists say
+Wikileaks releases CIA 'Archimedes' system for exfiltration and browser hijacking. Includes manuals and binary signatures.
+(Small ISP) Sonic CEO talks expansion, privacy, net neutrality -- they were able to invest and deploy GB internet for $40/mo
+New Hulu Terms Make It Difficult To Opt Out Of Data Collection
+Felony charges dropped after officer admits faking body cam video
+More Android phones than ever are covertly listening for inaudible sounds in ads
+Seattle restored ISP privacy rules overriding Federal law changes
+Oracle is cheering on gutting net neutrality rules
+A Graphene Speaker With No Moving Parts Uses Heat to Produce Sound
+Tesla Has a Lot More in Store Than the Model 3
+The FCC should preserve net neutrality
+A lawsuit fighting Milwaukee's Law on 'Pokémon Go' and augmented reality could reshape tech law and First Amendment protections: "They could regulate consumer review content, navigation, entertainment, news-gathering, you name it"
+Bitcoin payment now being accepted in private clinic in Botswana
+Families of San Bernardino shooting sue Facebook, Google, Twitter
+New device can harvest indoor light to power electronics
+FBI Paid $900K to Break Into Terror Couple’s iPhone
+Today's bonkers bug report: Microsoft Edge can't print numbers
+Scientists are Turning WiFi Routers Into Creepy Radar Cameras
+British engineers create epic office racetrack
+Two programs let you quickly compare results from multiple image recognition services; article contains links to an app, recent results, code for both on GitHub (will add a links-only comment below)
+Uber's PR crises show no sign of letting up
+Electric vehicle sales to surpass gas-powered cars by 2040, says new report
+18 months after discovery, the “Nintendo PlayStation” is finally working
+Scientists hit milestone in 3D printing of cartilage
+Tesla Has a Lot More in Store Than the Model 3
+Facebook wants to launch its big attack on TV next month — here's what we know
+It looks like Amazon’s Video app is finally coming to Apple TV this summer
+The Apple II Clone Wars
+Inside Intel’s new Autonomous Driving Garage
+China’s largest messenger WeChat blocked in Russia due to its failure to provide contact information
+"Amazon … uses trucks pulling shipping containers each packed with storage devices holding 100 petabytes"
+What happens in 2038 when 32-bit time_t values can no longer represent times correctly?
+Swiss solar plane completes first test flight
+Archimedes: WikiLeaks drops latest #Vault7 batch detailing network hacking tool
+California plans for collecting taxes on spaceflight
+Walmart wants to put sensors on everything so it can automatically order you stuff
+If you fast charge, Tesla will permanently throttle charging
+FBI warns of surge in wire-transfer fraud via spoofed emails
+Intel responds to i7-7700K high temperate issue, tells owners they shouldn't overclock the chips
+Apple and Microsoft still haven’t saved the tablet market
+Attention: ConnectWise Control/ScreenConnect Free Users *** Possible Security Issue. New Random Machines in Accounts
+Citi lists Netflix, Tesla as potential takeover targets for Apple
+Smartphone can now fine-tune new Fender guitar amps
+The world’s most valuable resource is no longer oil, but data
+The Apple Watch outsold every other wearable last quarter
+MIT unveils fully automated commercial 3D cloud-based printer
+Weekend Reader: First Week of May
+Google turns Rasberry Pi into a dirt cheap Home competitor
+I Hope to God Amazon's New Echo Isn't This Ugly
+How to Prevent Unclog Brother Inkjet Print head Nozzles?
+3 Benefits of Installing Cell Phone Spy Software on a Smartphone
+AT&amp;T takes heat for avoiding broadband upgrades for poor areas
+City of Portland, Oregon plans to subpoena Uber to force it to disclose software that helped its drivers evade local transportation regulators
+Bay Area Rapid Transit Will Run Trains on 100% Renewable Energy - "The BART board of directors just passed an electrical portfolio policy that requires half of the organization's power to come from renewables by 2025, and 100 percent by 2045."
+Trump’s FCC chairman has wasted no time enacting a conservative agenda in his first 100 days
+A team of researchers have discovered a new nano-scale thin film material with the highest-ever conductivity in its class. The new material could lead to smaller, faster, and more powerful electronics, as well as more efficient solar cells
+NYC’s New Tech to Track Every Homeless Person in the City
+Facebook Now Has Nearly 2 Billion Monthly Active Users
+Facebook debuts a Twitter-like ‘Latest Conversations’ feature that shows public posts about buzzing topics
+Why Instagram Is Becoming Facebook's Next Facebook
+China has been achieving technological advancement in record time and they have been surpassing everyone when it comes to building computers.
+Flying water taxis coming to Paris this Summer
+The Moto Z2 Play is losing what made the first version so great
+The Traits of The Best IT company in Chandigarh
+Researchers create first SYNTHETIC soft tisuse retina | Daily Mail Online
+BlackBerry KeyOne: Loyal users will love this Android phone
+Track Your Car Using Your Smartphone with Tiny Device
+First planting, first look inside Amazon's 'Spheres'
+Mobile payments company Square is going old school with a new debit card
+The best ways to stream live TV without cable
