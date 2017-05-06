@@ -1,9 +1,9 @@
 # Tweet-Classifier
 ---
 
-Python Library to fectch tweets from any twitter handler and classify into 6 different topics.
+Python Library to fetch tweets from any twitter handler and classify those fetched tweets into 6 different topics.
 
-## Prerequisites:
+## Dependencies:
 
 - nltk
 - tweepy
