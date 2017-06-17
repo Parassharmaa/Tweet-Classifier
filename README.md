@@ -11,6 +11,8 @@ Python Library to fetch tweets from any twitter handler and classify those fetch
 
 ## Usage:
 
+First add your twitter api keys in the twc/Tweetifier.py file.
+
 ```python
 from twc import Tweetifier
 
