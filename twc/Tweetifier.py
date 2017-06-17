@@ -41,11 +41,11 @@ def predict_topic(s):
 
 class Tweetifier:
 	def __init__(self, user, count=10):
-		self.consumer_key = "8E17QEDQMdi8c2qdEG6bslpdg"
-		self.consumer_secret = "Hzrfjmy3e0KyuNEqrGOyUTXrDTKwmes0lWaAmOo7BlqKPHlUWZ"
+		self.consumer_key = "xxxxxxxxxxxxxxxxxxxxxxxx"
+		self.consumer_secret = "xxxxxxxxxxxxxxxxxxxxx"
 
-		self.access_token = "850697540-E6ccBsss0Lx3o1pxlXvRsaXPeWepWTUgvaybR0fq"
-		self.access_token_secret = "LgyrN8X0t5ynTcq8NwJ7Atehh0CrD7477wFUKf8NrEolM"
+		self.access_token = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+		self.access_token_secret = "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 		self.auth = tweepy.OAuthHandler(self.consumer_key, self.consumer_secret)
 		self.auth.set_access_token(self.access_token, self.access_token_secret)
